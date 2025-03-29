@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading {
+  color: maroon;
+}
+
+.page {
+  flex-grow: 1;
+}
