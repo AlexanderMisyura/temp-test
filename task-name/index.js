@@ -596,7 +596,7 @@ class Page extends BaseComponent {
 
 const ZERO_SEGMENTS_TO_KEEP = 0;
 class Router {
-    pathSegmentsToKeep = Number(1);
+    pathSegmentsToKeep = Number(2);
     routes;
     constructor(routes) {
         this.routes = routes;
