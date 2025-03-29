@@ -10,7 +10,7 @@ import { TsconfigPathsPlugin } from 'tsconfig-paths-webpack-plugin';
 import webpack from 'webpack';
 
 const { dirname } = import.meta;
-const BASE_PATH = '/repo-name/task-name/';
+const BASE_PATH = '/temp-test/task-name/';
 const ZERO_SEGMENTS_TO_KEEP = 0;
 const TWO_SEGMENTS_TO_KEEP = 2;
 
